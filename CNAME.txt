@@ -1,1 +1,1 @@
-cctvlive.github.com
+cctvlive.github.com/cctv
